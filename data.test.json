@@ -1,0 +1,5 @@
+{
+    "operationName": null,
+    "query": "mutation {\n  sendVoucher(input: \"4e396e7c-1802-45f9-9d34-dbbc149742d4\") {\n    status\n    message\n  }\n}\n",
+    "variables": "{}"
+}
